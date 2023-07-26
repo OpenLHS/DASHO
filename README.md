@@ -1,6 +1,6 @@
 
 ![Build Status](https://github.com/OpenLHS/DASHO/workflows/CI/badge.svg)
-# Data Application Support Hub Ontology
+# Data Access Support Hub Ontology
 
 Description: None
 
